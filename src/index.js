@@ -1,5 +1,5 @@
-const pkg = () => {
-    console.log('New Package')
+const package = () => {
+    console.log(`Hey, here's the new package!`)
 }
 
-export default pkg
+export default package

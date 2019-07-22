@@ -1,3 +1,3 @@
-import pkg from '../../src'
+import package from '../../src'
 
-pkg()
+package()

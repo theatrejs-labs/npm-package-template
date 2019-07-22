@@ -2,7 +2,7 @@
   "name": "",
   "version": "0.1.0",
   "description": "",
-  "main": "dist/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "test": "yarn test",
     "start": "webpack-dev-server --mode development",

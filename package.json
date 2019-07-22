@@ -16,7 +16,7 @@
     "v:major": "npm version major --force"
   },
   "repository": "",
-  "author": "Alireza Sheikholmolouki <alireza.sheikholmolouki@gmail.com> (https://github.com/Alireza29675)",
+  "authors": [""],
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",

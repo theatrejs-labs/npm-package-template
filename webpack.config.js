@@ -6,12 +6,9 @@ const htmlWebpackPlugin = new HtmlWebpackPlugin({
     template: path.join(__dirname, "examples/browser/index.html"),
     filename: "./index.html"
 });
+
 module.exports = {
     entry: path.join(__dirname, "examples/browser/index.ts"),
-    output: {
-        path: path.join(__dirname, "examples/dist"),
-        filename: "bundle.js"
-    },
     module: {
         rules: [
             {

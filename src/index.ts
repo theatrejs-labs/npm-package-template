@@ -1,5 +1,5 @@
-const package = () => {
+const npmPackage = () => {
     console.log(`Hey, here's the new package!`)
 }
 
-export default package
+export default npmPackage

@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "description": "",
   "main": "lib/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "test": "jest --config jestconfig.json",
     "build": "./node_modules/.bin/tsc -p ./tsconfig.json",

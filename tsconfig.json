@@ -4,7 +4,7 @@
     "module": "commonjs",
     "sourceMap": true,
     "outDir": "lib/",
-    "allowJs": true,
+    "declaration": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
